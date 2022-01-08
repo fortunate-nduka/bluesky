@@ -2,7 +2,7 @@ import house from "../assets/house.jpg";
 
 const Why = () => {
   return (
-    <div className="bg-blue-50 py-24 px-5 md:px-8 flex flex-col lg:flex-row items-center justify-center lg:gap-x-10">
+    <div className="bg-blue-50 pt-24 pb-7 px-5 md:px-8 flex flex-col lg:flex-row items-center justify-center lg:gap-x-10">
       <div className="lg:basis-2/4">
         <div className="md:w-3/4 lg:w-full">
           <div className="text-4xl font-bold pb-4">Why Choose Us</div>
