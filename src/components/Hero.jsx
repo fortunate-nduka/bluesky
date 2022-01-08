@@ -4,10 +4,10 @@ const Hero = () => {
   return (
     <div className="w-full h-auto flex flex-col items-center justify-between bg-dark md:py-10 lg:pb-0 lg:flex-row">
       <div className="text-center lg:px-8 py-12 lg:py-0 w-11/12 md:w-5/6  mx-auto lg:w-2/4 lg:text-left">
-        <div className="text-4xl md:text-6xl lg:text-5xl text-white font-extrabold pb-5 leading-10 font-poppins">
+        <div className="text-5xl md:text-6xl lg:text-5xl text-white font-extrabold pb-5 leading-10 font-poppins tracking-wider">
           Everyone Deserves the Opportunity of Home
         </div>
-        <div className="text-gray-400 w-11/12 lg:w-full mx-auto text-sm py-3 leading-6 tracking-tight">
+        <div className="text-gray-400 w-11/12 lg:w-full mx-auto py-3 leading-6">
           BLUE SKY is a service that manages properties on one platform.
           Provides valuation, buy, rent, sell, and other real estate services
           worldwide. Rent or Buy a home by Exploring the millions of vacant
@@ -24,7 +24,7 @@ const Hero = () => {
       </div>
       <figure className="h-full w-full lg:w-2/4">
         <img
-          className="md:hidden lg:block object-cover h-2xl lg:rounded-l-3xl"
+          className="hidden lg:block object-cover h-2xl lg:rounded-l-3xl"
           src={house}
           alt="house"
         />

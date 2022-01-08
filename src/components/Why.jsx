@@ -13,7 +13,7 @@ const Why = () => {
         </div>
         <div className="pt-14 md:grid grid-cols-2 lg:grid-cols-1 gap-x-7 gap-y-10 space-y-8 md:space-y-0">
           <div className="bg-blue-100 shadow-xl rounded-2xl px-5 py-10 md:hover:transform md:hover:scale-105 cursor-pointer">
-            <div className="font-bold text-lg pb-3">Trusted Team</div>
+            <div className="font-bold text-xl pb-3">Trusted Team</div>
             <div className="text-sm">
               Every single day - we take stand for our clients. As expert real
               estate strategist - we simply won't do the deal unless it's a
@@ -21,7 +21,7 @@ const Why = () => {
             </div>
           </div>
           <div className="bg-blue-100 shadow-xl rounded-2xl px-5 py-10 md:hover:transform md:hover:scale-105 cursor-pointer">
-            <div className="font-bold text-lg pb-3">
+            <div className="font-bold text-xl pb-3">
               Market Ready & Destined to Sell
             </div>
             <div className="text-sm">
@@ -30,7 +30,7 @@ const Why = () => {
             </div>
           </div>
           <div className="bg-blue-100 shadow-xl rounded-2xl px-5 py-10 md:hover:transform md:hover:scale-105 cursor-pointer">
-            <div className="font-bold text-lg pb-3">Proven Results</div>
+            <div className="font-bold text-xl pb-3">Proven Results</div>
             <div className="text-sm">
               Over the past few years our brokers and agents have worked with reputable brokeage firms. Our proven marketing strategies often result in attracting multiple offers and selling the pproperty for far above the listp price in just a few days.
             </div>
